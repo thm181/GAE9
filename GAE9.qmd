@@ -1,0 +1,40 @@
+---
+title: "GAE9"
+author: "Your name here"
+format: 
+  html:
+    theme: custom.scss
+    embed-resources: true
+    code-tools: true
+
+csl: ecology.csl
+
+editor: visual
+bibliography: references.bib
+---
+
+## Scenario 1: Turkey, Traffic, and Toxoplasmosis
+
+In Turkey, traffic accidents are major causes of mortality and morbidity. According to the statistics reported by Turkish Security Headquarters for the year 2000, 7500 people were killed in traffic accidents. Tired, weary, sleepy and absentminded driving were often noted as reasons for the traffic accidents, but obviously mental and reflex conditions of drivers could have contributed.
+
+Toxoplasmosis is one of the most common zoonoses[^1] throughout the world. In most cases, toxoplasmosis has no clinical signs or symptoms and infection may only be detected by serological examinations. This kind of latent or dormant toxoplasmosis can be located in neural or muscular tissues and cause prolonged reaction times of the muscles. Extended reaction times also lead to deceleration of the reflexes which could be a major cause of traffic accidents. In light of this possibility, @Yereli.etal2006 investigated the incidence of *Toxoplasma gondii* ([see this CDC link for more toxoplasmosis information](https://www.cdc.gov/parasites/toxoplasmosis/)) among a group of drivers who had been involved in traffic accidents.
+
+[^1]: Diseases which can be transmitted to humans from animals.
+
+### Methods
+
+A total of 185 drivers (100 men and 85 women) that had been involved in auto accidents, aged between 21 and 40 years, living in Izmir and Manisa, and 185 people (95 men and 90 women), residents of the same region, in same age group that had not been involved in accidents were tested for infection using commercial IgG and IgM ELISA kits.
+
+#### Statistical Methods <!--# toxoplasmosis.csv -->
+
+## Scenario 2: Caribbean Eel Habitat Use
+
+@young2003 examined possible resource partitioning between two of the most common species of Caribbean moray eels, the Spotted Moray, *Gymnothorax moringa*, and the Purple Mouth Moray, *Gymnothorax vicinus*. The study was conducted in a shallow back-reef habitat of the Belize Barrier Reef containing primarily subadult and early adult eels.
+
+### Methods
+
+To examine potential differences in habitat use, the researchers counted sightings of the eels in a 150-m by 250-m area of reef in Belize. They identified each eel they saw to species, and classified the locations of the sightings into three types: those in grass beds, those in sand and rubble, and those within one meter of the border between grass and sand/rubble.
+
+#### Statistical Methods <!--# eels.csv -->
+
+## References:
